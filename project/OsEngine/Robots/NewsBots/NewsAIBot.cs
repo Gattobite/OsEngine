@@ -32,6 +32,8 @@ The ticker searches for the security in the screener and, if found, enters into 
 Exit: via stop-loss or take-profit
  */
 
+// Изменения для изменений сборки
+
 namespace OsEngine.Robots.NewsBots
 {
     [Bot("NewsAIBot")]
