@@ -1097,7 +1097,7 @@ namespace OsEngine
 
                 // передать серверу дату 
 
-                string ip = "185.186.143.9";
+                string ip = "82.114.226.42";
                 int port = 49152;
 
                 using (TcpClient client = new TcpClient())
